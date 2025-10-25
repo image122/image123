@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Medul Image Editor pro",
+  "description": "An application for users to upload and edit multiple images using text prompts with the Gemini 2.5 Flash Image model. Upload images, provide a prompt like 'create a collage from these images', and generate a new version.",
+  "requestFramePermissions": []
+}
